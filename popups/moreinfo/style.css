@@ -1,0 +1,96 @@
+#infobox .b {
+  background:url(b.png);
+}
+
+#infobox .tl {
+  background:url(tl.png);
+}
+
+#infobox .tr {
+  background:url(tr.png);
+}
+
+#infobox .bl {
+  background:url(bl.png);
+}
+
+#infobox .br {
+  background:url(br.png);
+}
+
+#infobox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  text-align: left;
+}
+
+#infobox .popup {
+  position: relative;
+}
+
+#infobox table {
+  border-collapse: collapse;
+}
+
+#infobox td {
+  border-bottom: 0;
+  padding: 0;
+}
+
+#infobox .body {
+  padding: 0px;
+  background: #fff;
+  background:url(<?echo $avatarpreview;?>); 
+  width: 370px;
+}
+
+#infobox .loading {
+  text-align: center;
+}
+
+#infobox .image {
+  text-align: center;
+}
+
+#infobox img {
+  border: 0;
+  margin: 0;
+}
+
+#infobox .footer {
+  border-top: 1px solid #DDDDDD;
+  padding-top: 5px;
+  margin-top: 10px;
+  text-align: right;
+}
+
+#infobox .tl, #infobox .tr, #infobox .bl, #infobox .br {
+  height: 10px;
+  width: 10px;
+  overflow: hidden;
+  padding: 0;
+}
+
+#infobox_overlay {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height:100%;
+  width:100%;
+}
+
+.infobox_hide {
+  z-index:-100;
+}
+
+.infobox_overlayBG {
+  background-color: #000;
+  z-index: 99;
+}
+
+* html #infobox_overlay { /* ie6 hack */
+  position: absolute;
+  height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');
+}

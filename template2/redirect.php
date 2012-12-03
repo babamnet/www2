@@ -1,0 +1,1 @@
+<META http-equiv="refresh" content="1;URL=http://localhost:8888/template/index.php" target="_top">
