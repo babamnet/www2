@@ -12,7 +12,7 @@
 <img src="images/logo2.png">
 </div>
 <div id="form">
-<form action="http://<?echo $baseurl?>/login.php" method="POST">
+<form action="http://we-clouds.com/login.php" method="POST">
   <input name="login" type="text" value="Login" style="background-color: #ffffff; width: 100px; border-radius: 2px;">
   <input name="password" type="password" value="Password" style="background-color: #ffffff; width: 100px; border-radius: 2px;">
   <input name="submit" type="submit" value="Enter!" style="background-color: #ffffff; width: 100px; border-radius: 2px;">
