@@ -1,0 +1,50 @@
+#avatar{
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	width: 100px;
+	height: 100px;
+	border: 10px solid black;
+}
+#box{
+	background-color: #151515;
+	opacity: 0.5;
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	top: 15px;
+	left: 150px;
+}
+#name{
+	position: absolute;
+	color: #fff;
+	font-family: Arial;
+	top: 10px;
+	left: 10px;
+	font-size: 16px;
+	text-shadow: 0 0 8px black;
+}
+#infobox{
+	position: absolute;
+	top: 40px;
+	left: 10px;
+	font-family: Arial;
+	color: #fff;
+	font-size: 13px;
+}
+#univer{
+	position: absolute;
+	top: 56px;
+	font-family: Arial;
+	color: #fff;
+	font-size: 13px;
+	left: 10px;
+}
+#mar{
+	position: absolute;
+	top: 72px;
+	font-family: Arial;
+	color: #fff;
+	font-size: 13px;
+	left: 10px;
+}

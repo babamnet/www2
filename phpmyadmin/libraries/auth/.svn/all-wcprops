@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/auth
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/auth/.DS_Store
+END
+config.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/auth/config.auth.lib.php
+END
+cookie.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/auth/cookie.auth.lib.php
+END
+signon.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/auth/signon.auth.lib.php
+END
+http.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/auth/http.auth.lib.php
+END

@@ -92,22 +92,60 @@ if(isset($_POST['submit']))
 
     {
 
-        print "Вы ввели неправильный логин/пароль";
+        print "
+        <div id='description'>
+            Вы ввели неверный пароль...<br><br>Попробуйте еще раз.
+        </div>
+        ";
 
     }
 
 }
 
 ?>
-
-<form method="POST">
-
-Login <input name="login" type="text"><br>
-
-Password <input name="password" type="password"><br>
-
-Remember me <input type="checkbox" name="not_attach_ip"><br>
-
-<input name="submit" type="submit" value="Enter!">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>WeClouds</title>
+<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="css/register.css" type="text/css">
+</head>
+<body style="background: url(images/backgr.png);">
+<img style="position: absolute; width: 100%; height: 100%;" src="images/backgr.png">
+<div id="logobar">
+<a href="http://<? echo $baseurl?>">
+<div id="logo">
+<img src="images/logo2.png">
+</div></a>
+<div id="form">
+<form action="http://<?echo $baseurl?>/login.php" method="POST">
+  <input name="login" type="text" value="Login" style="background-color: #ffffff; width: 100px; border-radius: 2px;">
+  <input name="password" type="password" value="Password" style="background-color: #ffffff; width: 100px; border-radius: 2px;">
+  <input name="submit" type="submit" value="Enter!" style="background-color: #ffffff; width: 100px; border-radius: 2px;">
 </form>
+</div>
+</div>
+<div id="topbar" style="background: url(images/bodybg.png) repeat; text-allign:absolute;">
+  <div id="content">
+  <div id="descblock">
+    <div id="logintext">
+    Логин</div>
+    <div id="nametext">
+    Пароль</div>
+  </div>
+  <div id="formblock">
+<form action="http://<?echo $baseurl?>/login.php" method="POST">
+  <input name="login" type="text" value="<?echo $postlogin?>" style="background-color: #ffffff; width: 100px; border-radius: 2px;"><br>
+  <input name="password" type="text" value="" style="background-color: #ffffff; width: 100px; border-radius: 2px;"><br>
+  <div id="submbut">
+  <input name="submit" type="submit" value="Продолжить" style="background-color: #ffffff; width: 106px; border-radius: 2px;"><br>
+</div>
+</form>
+</div>
+</div>
+<div id="footer_login">
+  WeClouds 2012 © Все права защищены
+</div>
+</body>
+</html>

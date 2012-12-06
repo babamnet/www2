@@ -1,3 +1,11 @@
+<?php
+# Соединямся с БД
+include "config.php";
+mysql_connect($host , $db_login, $db_password);
+mysql_select_db($db_name);
+mysql_set_charset("utf8");
+
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -7,10 +15,12 @@
   <link rel="stylesheet" href="css/register.css" type="text/css">
 </head>
 <body style="background: url(images/backgr.png);">
+  <img style="position: absolute; width: 100%; height: 100%;" src="images/backgr.png">
 <div id="logobar">
+<a href="http://<? echo $baseurl?>">
 <div id="logo">
 <img src="images/logo2.png">
-</div>
+</div></a>
 <div id="form">
 <form action="http://we-clouds.com/login.php" method="POST">
   <input name="login" type="text" value="Login" style="background-color: #ffffff; width: 100px; border-radius: 2px;">
@@ -23,12 +33,6 @@
   <div id="content">
     <div id="error">
 <?
-# Соединямся с БД
-include "config.php";
-mysql_connect($host , $db_login, $db_password);
-mysql_select_db($db_name);
-mysql_set_charset("utf8");
-
 $postlogin = "";
 $postname = "";
 $postsurname = "";
@@ -104,7 +108,7 @@ if(isset($_POST['submit']))
   </div>  
 </div>
 <div id="footer">
-  WeClouds 2012 Все права защищены
+  WeClouds 2012 © Все права защищены
 </div>
 </body>
 </html>

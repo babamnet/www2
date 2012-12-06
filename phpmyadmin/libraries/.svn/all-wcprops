@@ -1,0 +1,683 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries
+END
+tbl_common.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/tbl_common.php
+END
+tbl_links.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/tbl_links.inc.php
+END
+information_schema_relations.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/information_schema_relations.lib.php
+END
+session.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/session.inc.php
+END
+Error.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Error.class.php
+END
+header_http.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/header_http.inc.php
+END
+sysinfo.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/sysinfo.lib.php
+END
+display_change_password.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/display_change_password.lib.php
+END
+js_escape.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/js_escape.lib.php
+END
+config.values.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/config.values.php
+END
+mysql_charsets.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/mysql_charsets.lib.php
+END
+server_synchronize.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/server_synchronize.lib.php
+END
+header_printview.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/header_printview.inc.php
+END
+user_preferences.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/user_preferences.inc.php
+END
+gis_visualization.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis_visualization.lib.php
+END
+db_info.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/db_info.inc.php
+END
+sqlvalidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/sqlvalidator.class.php
+END
+db_structure.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/db_structure.lib.php
+END
+bookmark.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/bookmark.lib.php
+END
+tbl_replace_fields.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/tbl_replace_fields.inc.php
+END
+Partition.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Partition.class.php
+END
+blowfish.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/blowfish.php
+END
+server_links.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/server_links.inc.php
+END
+List.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/List.class.php
+END
+string_type_ctype.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/string_type_ctype.lib.php
+END
+replication_gui.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/replication_gui.lib.php
+END
+data_dictionary_relations.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/data_dictionary_relations.lib.php
+END
+relation_cleanup.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/relation_cleanup.lib.php
+END
+Table.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Table.class.php
+END
+cleanup.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/cleanup.lib.php
+END
+error.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/error.inc.php
+END
+advisory_rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/advisory_rules.txt
+END
+List_Database.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/List_Database.class.php
+END
+build_html_for_db.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/build_html_for_db.lib.php
+END
+zip_extension.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/zip_extension.lib.php
+END
+user_preferences.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/user_preferences.lib.php
+END
+ob.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/ob.lib.php
+END
+tbl_properties.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/tbl_properties.inc.php
+END
+display_select_lang.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/display_select_lang.lib.php
+END
+sqlvalidator.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/sqlvalidator.lib.php
+END
+display_tbl.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/display_tbl.lib.php
+END
+Index.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Index.class.php
+END
+string.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/string.lib.php
+END
+PMA.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/PMA.php
+END
+PDF.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/PDF.class.php
+END
+import.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/import.lib.php
+END
+string_native.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/string_native.lib.php
+END
+vendor_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/vendor_config.php
+END
+plugin_interface.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/plugin_interface.lib.php
+END
+server_variables_doc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/server_variables_doc.php
+END
+data_drizzle.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/data_drizzle.inc.php
+END
+sqlparser.data.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/sqlparser.data.php
+END
+database_interface.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/database_interface.lib.php
+END
+Error_Handler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Error_Handler.class.php
+END
+RecentTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/RecentTable.class.php
+END
+db_links.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/db_links.inc.php
+END
+core.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/core.lib.php
+END
+mult_submits.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/mult_submits.inc.php
+END
+header.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/header.inc.php
+END
+db_table_exists.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/db_table_exists.lib.php
+END
+Theme_Manager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Theme_Manager.class.php
+END
+common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/common.inc.php
+END
+parse_analyze.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/parse_analyze.lib.php
+END
+display_import.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/display_import.lib.php
+END
+tbl_info.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/tbl_info.inc.php
+END
+opendocument.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/opendocument.lib.php
+END
+header_scripts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/header_scripts.inc.php
+END
+display_import_ajax.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/display_import_ajax.lib.php
+END
+check_user_privileges.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/check_user_privileges.lib.php
+END
+language_stats.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/language_stats.inc.php
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/.DS_Store
+END
+url_generating.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/url_generating.lib.php
+END
+display_export.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/display_export.lib.php
+END
+navigation_header.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/navigation_header.inc.php
+END
+display_create_database.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/display_create_database.lib.php
+END
+replication.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/replication.inc.php
+END
+sqlparser.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/sqlparser.lib.php
+END
+string_type_native.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/string_type_native.lib.php
+END
+iconv_wrapper.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/iconv_wrapper.lib.php
+END
+File.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/File.class.php
+END
+sanitizing.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/sanitizing.lib.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/.htaccess
+END
+tbl_select.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/tbl_select.lib.php
+END
+server_common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/server_common.inc.php
+END
+string_mb.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/string_mb.lib.php
+END
+ip_allow_deny.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/ip_allow_deny.lib.php
+END
+logging.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/logging.lib.php
+END
+mime.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/mime.lib.php
+END
+blobstreaming.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/blobstreaming.lib.php
+END
+common.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/common.lib.php
+END
+StorageEngine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/StorageEngine.class.php
+END
+transformations.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/transformations.lib.php
+END
+Tracker.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Tracker.class.php
+END
+charset_conversion.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/charset_conversion.lib.php
+END
+display_create_table.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/display_create_table.lib.php
+END
+db_common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/db_common.inc.php
+END
+footer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/footer.inc.php
+END
+data_mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/data_mysql.inc.php
+END
+Theme.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Theme.class.php
+END
+zip.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/zip.lib.php
+END
+file_listing.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/file_listing.php
+END
+Config.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Config.class.php
+END
+select_server.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/select_server.lib.php
+END
+Advisor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Advisor.class.php
+END
+sql_query_form.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/sql_query_form.lib.php
+END
+relation.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/relation.lib.php
+END
+grab_globals.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/grab_globals.lib.php
+END
+kanji-encoding.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/kanji-encoding.lib.php
+END
+select_lang.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/select_lang.lib.php
+END
+header_meta_style.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/header_meta_style.inc.php
+END
+Message.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/Message.class.php
+END
+config.default.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/config.default.php
+END
+pmd_common.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/pmd_common.php
+END

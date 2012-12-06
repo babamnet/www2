@@ -114,13 +114,35 @@ font-size: 20px;
 left: 45px;
 top: 10px;
 }
-#footer{
-position: relative;
-top: 80px;
+#footer_reg{
+position: absolute;
+top: 490px;
 text-align: center;
 font-family: Arial;
 font-size: 13px;
 color: white;
+width: 100%;
+text-shadow: 0px 0px 10px black;
+}
+#footer_login{
+position: absolute;
+top: 520px;
+text-align: center;
+font-family: Arial;
+font-size: 13px;
+color: white;
+width: 100%;
+text-shadow: 0px 0px 10px black;
+}
+#footer{
+position: absolute;
+top: 580px;
+text-align: center;
+font-family: Arial;
+font-size: 13px;
+color: white;
+width: 100%;
+text-shadow: 0px 0px 10px black;
 }
 #formblock{
    position: absolute;
@@ -181,4 +203,17 @@ color: white;
    top: 380px;
    color: #a00;
    width: 900px;
+}
+#description{
+   position: absolute;
+   top: 160px;
+   text-align: center;
+   width: 100%;
+   font-size: 30px;
+   z-index: 10;
+}
+#background {
+position: absolute;
+width: 100%;
+height: 100%;
 }

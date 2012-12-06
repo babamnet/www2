@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis
+END
+pma_gis_geometry.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_geometry.php
+END
+pma_gis_linestring.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_linestring.php
+END
+pma_gis_visualization.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_visualization.php
+END
+pma_gis_multipolygon.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_multipolygon.php
+END
+pma_gis_multipoint.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_multipoint.php
+END
+pma_gis_factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_factory.php
+END
+pma_gis_geometrycollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_geometrycollection.php
+END
+pma_gis_polygon.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_polygon.php
+END
+pma_gis_multilinestring.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_multilinestring.php
+END
+pma_gis_point.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/gis/pma_gis_point.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/dbi
+END
+drizzle-wrappers.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/dbi/drizzle-wrappers.lib.php
+END
+mysqli.dbi.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/dbi/mysqli.dbi.lib.php
+END
+drizzle.dbi.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/dbi/drizzle.dbi.lib.php
+END
+mysql.dbi.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/dbi/mysql.dbi.lib.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples
+END
+signon.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples/signon.php
+END
+upgrade_tables_mysql_4_1_2+.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples/upgrade_tables_mysql_4_1_2+.sql
+END
+openid.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples/openid.php
+END
+signon-script.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples/signon-script.php
+END
+config.manyhosts.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples/config.manyhosts.inc.php
+END
+create_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples/create_tables.sql
+END
+swekey.sample.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples/swekey.sample.conf
+END
+create_tables_drizzle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/examples/create_tables_drizzle.sql
+END

@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/babamnet/www2/!svn/ver/1/phpmyadmin
+END
+db_printview.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_printview.php
+END
+phpmyadmin.css.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/phpmyadmin.css.php
+END
+tbl_addfield.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_addfield.php
+END
+server_replication.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_replication.php
+END
+server_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_import.php
+END
+show_config_errors.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/babamnet/www2/!svn/ver/1/phpmyadmin/show_config_errors.php
+END
+tbl_structure.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_structure.php
+END
+tbl_chart.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_chart.php
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/babamnet/www2/!svn/ver/1/phpmyadmin/url.php
+END
+README.VENDOR
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/README.VENDOR
+END
+tbl_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_create.php
+END
+tbl_gis_visualization.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_gis_visualization.php
+END
+schema_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/schema_edit.php
+END
+server_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_export.php
+END
+chk_rel.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/babamnet/www2/!svn/ver/1/phpmyadmin/chk_rel.php
+END
+webapp.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/babamnet/www2/!svn/ver/1/phpmyadmin/webapp.php
+END
+pmd_save_pos.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/pmd_save_pos.php
+END
+db_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_import.php
+END
+tbl_select.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_select.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/babamnet/www2/!svn/ver/1/phpmyadmin/main.php
+END
+tbl_operations.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_operations.php
+END
+pmd_relation_upd.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/babamnet/www2/!svn/ver/1/phpmyadmin/pmd_relation_upd.php
+END
+Documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/Documentation.html
+END
+db_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_export.php
+END
+tbl_change.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_change.php
+END
+prefs_manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/prefs_manage.php
+END
+changelog.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/changelog.php
+END
+docs.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/babamnet/www2/!svn/ver/1/phpmyadmin/docs.css
+END
+server_variables.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_variables.php
+END
+navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/navigation.php
+END
+server_binlog.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_binlog.php
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/babamnet/www2/!svn/ver/1/phpmyadmin/robots.txt
+END
+tbl_indexes.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_indexes.php
+END
+user_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/user_password.php
+END
+schema_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/schema_export.php
+END
+Documentation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/Documentation.txt
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/babamnet/www2/!svn/ver/1/phpmyadmin/ChangeLog
+END
+db_sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_sql.php
+END
+tbl_row_action.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_row_action.php
+END
+server_plugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_plugins.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/babamnet/www2/!svn/ver/1/phpmyadmin/index.php
+END
+db_tracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_tracking.php
+END
+pmd_display_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/babamnet/www2/!svn/ver/1/phpmyadmin/pmd_display_field.php
+END
+tbl_alter.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_alter.php
+END
+db_qbe.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_qbe.php
+END
+import_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/import_status.php
+END
+db_routines.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_routines.php
+END
+db_datadict.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_datadict.php
+END
+prefs_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/prefs_forms.php
+END
+server_sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_sql.php
+END
+tbl_printview.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_printview.php
+END
+db_triggers.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_triggers.php
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/babamnet/www2/!svn/ver/1/phpmyadmin/print.css
+END
+config.sample.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/babamnet/www2/!svn/ver/1/phpmyadmin/config.sample.inc.php
+END
+view_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/view_create.php
+END
+server_privileges.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_privileges.php
+END
+server_synchronize.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_synchronize.php
+END
+phpinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/babamnet/www2/!svn/ver/1/phpmyadmin/phpinfo.php
+END
+db_structure.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_structure.php
+END
+db_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_create.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/babamnet/www2/!svn/ver/1/phpmyadmin/favicon.ico
+END
+pmd_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/babamnet/www2/!svn/ver/1/phpmyadmin/pmd_pdf.php
+END
+RELEASE-DATE-3.5.3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/RELEASE-DATE-3.5.3
+END
+server_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_status.php
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/babamnet/www2/!svn/ver/1/phpmyadmin/.DS_Store
+END
+enum_editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/enum_editor.php
+END
+tbl_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_import.php
+END
+tbl_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_replace.php
+END
+pmd_general.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/pmd_general.php
+END
+view_operations.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/view_operations.php
+END
+tbl_relation.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_relation.php
+END
+tbl_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_export.php
+END
+tbl_zoom_select.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_zoom_select.php
+END
+bs_play_media.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/bs_play_media.php
+END
+db_operations.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_operations.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/babamnet/www2/!svn/ver/1/phpmyadmin/LICENSE
+END
+transformation_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/transformation_overview.php
+END
+server_collations.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_collations.php
+END
+querywindow.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/querywindow.php
+END
+sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/babamnet/www2/!svn/ver/1/phpmyadmin/sql.php
+END
+tbl_sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_sql.php
+END
+tbl_move_copy.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_move_copy.php
+END
+tbl_tracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_tracking.php
+END
+transformation_wrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/transformation_wrapper.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/babamnet/www2/!svn/ver/1/phpmyadmin/README
+END
+db_events.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_events.php
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/babamnet/www2/!svn/ver/1/phpmyadmin/import.php
+END
+db_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/db_search.php
+END
+server_databases.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_databases.php
+END
+file_echo.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/file_echo.php
+END
+server_engines.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/server_engines.php
+END
+bs_disp_as_mime_type.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/bs_disp_as_mime_type.php
+END
+gis_data_editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/gis_data_editor.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/babamnet/www2/!svn/ver/1/phpmyadmin/export.php
+END
+license.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/babamnet/www2/!svn/ver/1/phpmyadmin/license.php
+END
+tbl_get_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_get_field.php
+END
+browse_foreigners.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/babamnet/www2/!svn/ver/1/phpmyadmin/browse_foreigners.php
+END
+themes.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/babamnet/www2/!svn/ver/1/phpmyadmin/themes.php
+END
+pmd_relation_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/babamnet/www2/!svn/ver/1/phpmyadmin/pmd_relation_new.php
+END
+tbl_triggers.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/tbl_triggers.php
+END

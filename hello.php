@@ -46,10 +46,13 @@ $(window).load(function() {
 	<link rel="stylesheet" href="css/hello.css" type="text/css">
 </head>
 <body style="background: url(images/backgr.png);">
+<img style="position: absolute; width: 100%; height: 100%;" src="images/backgr.png">
 <div id="logobar">
+<a href="http://<?echo $baseurl?>">
 <div id="logo">
 <img src="images/logo2.png">
 </div>
+</a>
 <div id="form">
 <form action="http://<?echo $baseurl?>/login.php" method="POST">
 	<input name="login" type="text" value="Login" style="background-color: #ffffff; width: 100px; border-radius: 2px;">
@@ -90,7 +93,7 @@ $(window).load(function() {
 	</div>	
 </div>
 <div id="footer">
-	WeClouds 2012 Все права защищены
+	WeClouds 2012 © Все права защищены
 </div>
 </body>
 </html>

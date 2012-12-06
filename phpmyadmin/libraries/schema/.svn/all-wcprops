@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/schema
+END
+Pdf_Relation_Schema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/schema/Pdf_Relation_Schema.class.php
+END
+Visio_Relation_Schema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/schema/Visio_Relation_Schema.class.php
+END
+Dia_Relation_Schema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/schema/Dia_Relation_Schema.class.php
+END
+Svg_Relation_Schema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/schema/Svg_Relation_Schema.class.php
+END
+Export_Relation_Schema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/schema/Export_Relation_Schema.class.php
+END
+User_Schema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/schema/User_Schema.class.php
+END
+Eps_Relation_Schema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/schema/Eps_Relation_Schema.class.php
+END

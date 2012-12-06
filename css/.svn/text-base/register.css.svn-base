@@ -1,0 +1,184 @@
+div#container
+{
+   width: 914px;
+   position: relative;
+   margin-top: 0px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: left;
+}
+body
+{
+   text-align: center;
+   margin: 0;
+   background-color: #FFFFFF;
+   color: #000000;
+   background-repeat: repeat-y, repeat-y;
+}
+#topbar
+{
+   
+   position: relative;
+   top: 90px;
+   background: url(images/backgr.png);
+   background-repeat: repeat;
+   width: 100%; 
+   text-align: center;
+   min-width: 100%;
+   min-height: 500px;
+   box-shadow: 0 0 14px 0;
+}
+#logobar{
+   width: 903px;
+position: relative;
+margin-top: 0px;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+}
+#logo{
+   position: absolute;
+   top: 7px;
+   width: 300px;
+   z-index: 2;
+}
+#form{
+   
+position: absolute;
+left: 530px;
+top: 30px;
+width: 538px;
+height: 41px;
+z-index: 4;
+}
+#content{
+width: 903px;
+position: relative;
+margin-top: 0px;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+}
+#prev{
+width: 610px;
+position: absolute;
+top: 170px;
+left: -50px;
+}
+#texter{
+position: absolute;
+font: Arial;
+font-size: 44px;
+top: 50px;
+text-shadow: 0px 0px 10px black;
+}
+#texterline{
+position: absolute;
+font: Arial;
+font-size: 28px;
+top: 100px;
+left: 120px;
+text-shadow: 0px 0px 10px black;
+}
+#block{
+position: absolute;
+font: Arial;
+top: 200px;
+left: 600px;
+width: 300px;
+height: 220px;
+background: url(images/blockbg.png);
+box-shadow: 0 0 10px black;
+color: #d0d0d0;
+border-radius: 2px;
+}
+#blocktext{
+position: relative;
+top: 15px;
+left: 15px;
+width: 280px;
+height: 145px;
+font-size: 16px;
+text-shadow: 0px 0px 1px white;
+}
+#button{
+position: absolute;
+top: 160px;
+left: 17px;
+width: 260;
+height: 40;
+}
+#buttontext{
+position: absolute;
+font-size: 20px;
+left: 45px;
+top: 10px;
+}
+#footer{
+position: relative;
+top: 80px;
+text-align: center;
+font-family: Arial;
+font-size: 13px;
+color: white;
+}
+#formblock{
+   position: absolute;
+   top: 200px;
+   left: 450px;
+}
+#descblock{
+   position: absolute;
+   top: 203px;
+   left: 290px;
+   font-size: 16px;
+   width: 150px;
+   text-align: right;
+}
+#logintext{
+   position: absolute;
+   right: 0px;
+}
+#nametext{
+   position: absolute;
+   top: 25px;
+   right: 0px;
+}
+#surtext{
+   position: absolute;
+   top: 50px;
+   right: 0px
+}
+#passtext{
+   position: absolute;
+   top: 75px;
+   right: 0px
+}
+#rettext{
+   position: absolute;
+   top: 100px;
+   right: 0px
+}
+#submbut{
+   position: absolute;
+   top: 140px;
+   left: -50px;
+}
+#header{
+   position: absolute;
+   left: 150px;
+   top: 60px;
+   width: 600px;
+   text-align: center;
+   font-size: 25px;
+}
+#lol{
+   font-size: 50px;
+}
+#error{
+   position: absolute;
+   text-align: center;
+   top: 380px;
+   color: #a00;
+   width: 900px;
+}

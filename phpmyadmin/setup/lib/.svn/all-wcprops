@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/babamnet/www2/!svn/ver/1/phpmyadmin/setup/lib
+END
+index.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/babamnet/www2/!svn/ver/1/phpmyadmin/setup/lib/index.lib.php
+END
+ConfigGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/babamnet/www2/!svn/ver/1/phpmyadmin/setup/lib/ConfigGenerator.class.php
+END
+common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/setup/lib/common.inc.php
+END
+form_processing.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/babamnet/www2/!svn/ver/1/phpmyadmin/setup/lib/form_processing.lib.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/setup/lib/.htaccess
+END

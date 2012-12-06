@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines
+END
+mrg_myisam.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/mrg_myisam.lib.php
+END
+ndbcluster.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/ndbcluster.lib.php
+END
+bdb.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/bdb.lib.php
+END
+berkeleydb.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/berkeleydb.lib.php
+END
+memory.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/memory.lib.php
+END
+innodb.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/innodb.lib.php
+END
+binlog.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/binlog.lib.php
+END
+pbxt.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/pbxt.lib.php
+END
+innobase.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/innobase.lib.php
+END
+merge.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/merge.lib.php
+END
+myisam.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/myisam.lib.php
+END
+pbms.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/libraries/engines/pbms.lib.php
+END

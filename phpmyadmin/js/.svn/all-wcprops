@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/babamnet/www2/!svn/ver/1/phpmyadmin/js
+END
+tbl_gis_visualization.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/tbl_gis_visualization.js
+END
+config.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/config.js
+END
+server_plugins.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/server_plugins.js
+END
+replication.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/replication.js
+END
+tbl_zoom_plot_jqplot.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/tbl_zoom_plot_jqplot.js
+END
+tbl_relation.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/tbl_relation.js
+END
+tbl_select.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/tbl_select.js
+END
+export.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/export.js
+END
+gis_data_editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/gis_data_editor.js
+END
+messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/messages.php
+END
+makegrid.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/makegrid.js
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/.DS_Store
+END
+tbl_change.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/tbl_change.js
+END
+keyhandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/keyhandler.js
+END
+OpenStreetMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/OpenStreetMap.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/common.js
+END
+db_operations.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/db_operations.js
+END
+server_variables.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/server_variables.js
+END
+server_privileges.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/server_privileges.js
+END
+server_synchronize.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/server_synchronize.js
+END
+tbl_structure.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/tbl_structure.js
+END
+cross_framing_protection.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/cross_framing_protection.js
+END
+db_structure.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/db_structure.js
+END
+get_image.js.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/get_image.js.php
+END
+functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/functions.js
+END
+server_status.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/server_status.js
+END
+db_search.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/db_search.js
+END
+import.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/import.js
+END
+date.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/date.js
+END
+server_status_monitor.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/server_status_monitor.js
+END
+update-location.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/update-location.js
+END
+dom-drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/dom-drag.js
+END
+querywindow.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/querywindow.js
+END
+sql.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/sql.js
+END
+navigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/navigation.js
+END
+indexes.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/indexes.js
+END
+tbl_chart.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/babamnet/www2/!svn/ver/1/phpmyadmin/js/tbl_chart.js
+END
